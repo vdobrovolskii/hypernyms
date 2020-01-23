@@ -10,4 +10,6 @@ The version without Jupyter Notebook will be made available before 01.06.2019.
 
 The word embedding model was downloaded from http://vectors.nlpl.eu/repository/11/182.zip and turned into a sense embedding model with the help of https://github.com/uhh-lt/sensegram.
 
-UPD 31.05.19: The combination of recurrent and neighbor regularization has been tested, so the publicly available code is to be updated. This should happen in June.
+UPD 31.05.19: The combination of recurrent and neighbor regularization has been tested, so the publicly available code is to be updated. This should happen in June 
+
+UPD: (see bowse repo)
